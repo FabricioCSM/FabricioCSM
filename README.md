@@ -1,6 +1,7 @@
 <div>
   Olá! Bem vindos! 
-<br>
+  <br/>
+  <br/>
   <p>Meu nome é <strong>Fabrício Martins</strong>, sou de Belo Horizonte/ MG e atualmente estou em formação no curso de <strong>Desenvolvedor Web pela Trybe</strong>	&#128421 e em <strong>Engenharia de Minas pela UFMG</strong> &#127891 </p>
   <hr>
 
