@@ -29,11 +29,11 @@
 
   <br>
   <h3>Contato</h3>
-  <a href="https://www.linkedin.com/in/fabriciocsm/" >
-    <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a target="_blank" href="https://www.linkedin.com/in/fabriciocsm/" >
+    <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:fabriciocsmartins@gmail.com" >
-    <img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a target="_blank" href="mailto:fabriciocsmartins@gmail.com" >
+    <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioCSM&theme=blue-green%22" />
 </div>
