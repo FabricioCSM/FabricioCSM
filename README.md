@@ -36,6 +36,8 @@
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
     <br><br />
-    <a target="_blank" href="https://gitlab.com/fabriciocsmartins"<strong>GitLab</strong></a>
+    <a target="_blank" href="https://gitlab.com/fabriciocsmartins" >
+      <img src="https://code.iconify.design/2/2.1.2/iconify.min.js"/><strong>GitLab</strong>
+    </a>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioCSM&theme=blue-green%22" />
 </div>
