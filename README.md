@@ -37,7 +37,7 @@
   </a>
     <br><br />
     <a target="_blank" href="https://gitlab.com/fabriciocsmartins" >
-      <img src="https://api.iconify.design/feather/gitlab.svg"/><strong>GitLab</strong>
+      <img src="https://api.iconify.design/feather/gitlab.svg?color=orange"/><strong>  GitLab</strong>
     </a>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioCSM&theme=blue-green%22" />
 </div>
