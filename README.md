@@ -35,5 +35,7 @@
   <a target="_blank" href="mailto:fabriciocsmartins@gmail.com" >
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+    <br />
+    <a target="_blank" href="https://gitlab.com/fabriciocsmartins"<strong>GitLab</strong></a>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioCSM&theme=blue-green%22" />
 </div>
