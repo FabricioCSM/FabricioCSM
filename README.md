@@ -29,7 +29,7 @@
 
   <br>
   <h3>Contato</h3>
-  <a target="_blank" href="https://www.linkedin.com/in/fabriciocsm/" >
+  <a target="_blank" href="https://www.linkedin.com/in/fabricio-c-s-martins/" >
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a target="_blank" href="mailto:fabriciocsmartins@gmail.com" >
