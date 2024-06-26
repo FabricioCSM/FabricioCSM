@@ -5,7 +5,7 @@
   <p>I'm Fabricio Martins, I'm a Web Developer with a degree in Mining Engineering, driven by challenges and the constant pursuit of self-improvement.</p>
 
   <hr>
-  <p>Currently, I work as a Developer at <a href="https://www.voegol.com.br/" alt="Link to airline company GOL">Gol Linhas Aéreas.</a> &#9992;&#65039;</p>
+  <p>Currently, I work as a Developer at <a href="https://www.voegol.com.br/" target="_blank" alt="Link to airline company GOL">Gol Linhas Aéreas.</a> &#9992;&#65039;</p>
   <hr>
 
 
