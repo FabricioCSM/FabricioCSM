@@ -1,19 +1,18 @@
 <div>
-  Olá! Bem vindos! 
+  Welcome!
   <br/>
   <br/>
-  <p>Meu nome é <strong>Fabrício Martins</strong>, sou de Belo Horizonte/ MG e atualmente estou em formação no curso de <strong>Desenvolvedor Web pela Trybe</strong>	&#128421 e em <strong>Engenharia de Minas pela UFMG</strong> &#127891 </p>
+  <p>I'm Fabricio Martins, I'm a Web Developer with a degree in Mining Engineering, driven by challenges and the constant pursuit of self-improvement.</p>
   <hr>
 
-  <br>
 
-   <h3>Interesses e Atividades:</h3>
+My journey includes roles such as a temporary sales associate at clothing stores like Reserva in 2016/2017, volunteering at the 2013 FIFA Confederations Cup and the 2014 FIFA World Cup, backpacking through South America and Europe in 2017/2023 respectively, among other adventures.
 
-  <li>Tenho muito interesse nas áreas de Desenvolvimento front-end, Desenvolvimento back-end, Ciência de dados. Eu vivo codando, sempre em busca de praticar e aprender cada vez mais nessas áreas, me desafiando e alimentando curiosidades da área. Atualmente trabalho bastante com <strong> Angular, React, Git, NodeJS, MySQL </strong></li>
+I am very fond of sports of all kinds and enjoy watching various games during the Summer and Winter Olympics. My favorite sports are soccer and handball; I trained in handball for six years and was selected for the Minas Gerais state team and pre-selection for the Brazilian national team.
 
-  <li> Gosto bastante de música, desde música clássica, rock, indie, um gosto bastante eclético, mas claro, com algumas preferencias. Gosto de praticar violão, e é uma outra atividade que gosto de praticar e aprender constantemente</li>
+I also have a strong interest in music, enjoying a variety of genres from classical to MPB, samba, and rock.
 
-  <li> Sou bastante competitivo, mas claro sempre respeitando o adversário e minha equipe. Já treinei por bastante tempo Handball &#129342, chegando a jogar em times e seleções municipais e estaduais. Porém, depois de uma lesão no joelho, gosto de jogar altinha e um futebol leve ⚽ (na maioria das vezes no gol, mas na minha humilde opinião, como um goleiro artilheiro! &#128514)
+Finally, I emphasize my dedication to the active application of my knowledge. I aim to contribute significantly to the development and implementation of innovative solutions wherever I am.
    <br>
 
   <h3>Tecnologias e Ferramentas com alguma experiência<h3>
@@ -36,8 +35,5 @@
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
     <br><br />
-    <a target="_blank" href="https://gitlab.com/fabriciocsmartins" >
-      <img src="https://api.iconify.design/feather/gitlab.svg?color=orange"/><strong>  GitLab</strong>
-    </a>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabricioCSM&theme=blue-green%22" />
 </div>
