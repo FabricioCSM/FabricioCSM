@@ -18,7 +18,7 @@ I also have a strong interest in music, enjoying a variety of genres from classi
 Finally, I emphasize my dedication to the active application of my knowledge. I aim to contribute significantly to the development and implementation of innovative solutions wherever I am.
    <br>
 
-  <h3>Tecnologias e Ferramentas com alguma experiência<h3>
+  <h3>Stack<h3>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -30,7 +30,7 @@ Finally, I emphasize my dedication to the active application of my knowledge. I 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
   <br>
-  <h3>Contato</h3>
+  <h3>Contact</h3>
   <a target="_blank" href="https://www.linkedin.com/in/fabricio-c-s-martins/" >
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
