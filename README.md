@@ -9,13 +9,12 @@
   <hr>
 
 
-My journey includes roles such as a temporary sales associate at clothing stores like Reserva in 2016/2017, volunteering at the 2013 FIFA Confederations Cup and the 2014 FIFA World Cup, backpacking through South America and Europe in 2017/2023 respectively, among other adventures.
+I am a dedicated Mid-Level Full-Stack Software Engineer with 3 years of hands-on experience and a strong foundation in developing dynamic and responsive web applications. My technical expertise includes React, Angular, Node.js, Python, MySQL, and MongoDB. I am passionate about writing clean, maintainable code and building robust software solutions.
 
-I am very fond of sports of all kinds and enjoy watching various games during the Summer and Winter Olympics. My favorite sports are soccer and handball; I trained in handball for six years and was selected for the Minas Gerais state team and pre-selection for the Brazilian national team.
+Throughout my career, I have contributed to airline companies, startups, freelance jobs in the development of various full-stack web applications, focusing on both front-end and back-end technologies. My experience includes creating intuitive user interfaces, developing efficient backend systems, and ensuring the seamless integration of different software components.
 
-I also have a strong interest in music, enjoying a variety of genres from classical to MPB, samba, and rock.
+I completed a comprehensive software development course at Trybe, a web development school committed to the professional success of its students. The course covered over 1500 hours of training in web development fundamentals, front-end and back-end development, computer science, software engineering, agile methodologies, and soft skills. This rigorous training has equipped me with the knowledge and skills necessary to excel in the software development industry.
 
-Finally, I emphasize my dedication to the active application of my knowledge. I aim to contribute significantly to the development and implementation of innovative solutions wherever I am.
    <br>
 
   <h3>Stack<h3>
